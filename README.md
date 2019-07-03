@@ -1,0 +1,2 @@
+# majsterkabanosbot
+bot
